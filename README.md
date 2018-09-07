@@ -30,9 +30,9 @@
 
 |名称|社区运营|视觉设计|城市推广|
 |----|----|----|----|
-|[韩亦乐](https://github.com/hylerrix)|是|-|是|
-|[薛开麒](https://github.com/AqingCyan)|是|-|-|
-|[王晨宇]()|是|-|-|
+|[韩亦乐][1]|是|-|是|
+|[薛开麒][3]|是|-|-|
+|[王晨宇][4]|是|-|-|
 
 ### 产品技术 tech-leader
 
@@ -42,8 +42,8 @@
 
 |名称|产品技术|目前主导的开源项目|
 |----|----|----|
-|[张峰涛](https://github.com/PriceZh)|是|[2018 西安 Web 前端大会官网](https://github.com/freeCodeCamp-XiAn/WFE-Conf)|
-|[谷中仁](https://github.com/guzhongren)|是|[请填写]()|
+|[张峰涛][2]|是|[2018 西安 Web 前端大会官网](https://github.com/freeCodeCamp-XiAn/WFE-Conf)|
+|[谷中仁][5]|是|[请填写]()|
 |[易海门](https://github.com/haihaio)|是|[gank: 基于 Ionic3 的简单App](https://github.com/haihaio/gank)|
 |[罗铭](https://github.com/kuparuysaka)|是|[请填写]()|
 
@@ -102,24 +102,24 @@
 
 |||||||
 |----|----|----|----|----|----|
-|主要负责人|[韩亦乐](https://github.com/hylerrix)|积分奖励|5|交付日期|-|
+|主要负责人|[韩亦乐][1]|积分奖励|5|交付日期|-|
 |辅助伙伴|[罗铭]()|积分奖励|0~15|前端进度|4%|	
 |监督人|[请认领]()|积分奖励|0~5|后端状态|0%|
-|70% 交工时间|[韩亦乐](https://github.com/hylerrix)|积分奖励|3|交付日期|-|
-|100% 交工时间|[韩亦乐](https://github.com/hylerrix)|积分奖励|7|交付日期|-|
-|开源部署|[韩亦乐](https://github.com/hylerrix)|积分奖励|1|交付日期|-|
+|70% 交工时间|[韩亦乐][1]|积分奖励|3|交付日期|-|
+|100% 交工时间|[韩亦乐][1]|积分奖励|7|交付日期|-|
+|开源部署|[韩亦乐][1]|积分奖励|1|交付日期|-|
 |技术栈选型|前端: Vue.js|后端: JAVA|数据库: MySQL|||
 
 ### [技术社区积分成长平台](https://github.com/freeCodeCamp-XiAn/inspire-platform)
 
 |||||||
 |----|----|----|----|----|----|
-|主要负责人|[韩亦乐](https://github.com/hylerrix)|积分奖励|5|交付日期|-|
+|主要负责人|[韩亦乐][1]|积分奖励|5|交付日期|-|
 |辅助伙伴|[请认领]()|积分奖励|0~15|前端进度|0%|	
 |监督人|[请认领]()|积分奖励|0~5|后端状态|0%|
-|70% 交工时间|[韩亦乐](https://github.com/hylerrix)|积分奖励|3|交付日期|-|
-|100% 交工时间|[韩亦乐](https://github.com/hylerrix)|积分奖励|7|交付日期|-|
-|开源部署|[韩亦乐](https://github.com/hylerrix)|积分奖励|1|交付日期|-|
+|70% 交工时间|[韩亦乐][1]|积分奖励|3|交付日期|-|
+|100% 交工时间|[韩亦乐][1]|积分奖励|7|交付日期|-|
+|开源部署|[韩亦乐][1]|积分奖励|1|交付日期|-|
 |技术栈选型|前端: Vue.js|后端: Koa.js|数据库: MongoDB|||
 
 ### [前端自动化海报生成器](https://github.com/freeCodeCamp-XiAn/sweet-home)
@@ -138,12 +138,12 @@
 
 |||||||
 |----|----|----|----|----|----|
-|主要负责人|[张峰涛](https://github.com/pricezh)|积分奖励|5|交付日期|-|
+|主要负责人|[张峰涛][2]|积分奖励|5|交付日期|-|
 |辅助伙伴|[请认领]()|积分奖励|0~15|前端进度|10%|	
-|监督人|[韩亦乐](https://github.com/hylerrix)|积分奖励|0~5|后端状态|0%|
-|70% 交工时间|[张峰涛](https://github.com/pricezh)|积分奖励|3|交付日期|-|
-|100% 交工时间|[张峰涛](https://github.com/pricezh)|积分奖励|7|交付日期|-|
-|开源部署|[韩亦乐](https://github.com/hylerrix)|积分奖励|1|交付日期|-|
+|监督人|[韩亦乐][1]|积分奖励|0~5|后端状态|0%|
+|70% 交工时间|[张峰涛][2]|积分奖励|3|交付日期|-|
+|100% 交工时间|[张峰涛][2]|积分奖励|7|交付日期|-|
+|开源部署|[韩亦乐][1]|积分奖励|1|交付日期|-|
 |技术栈选型|前端: Vue.js|||||
 
 ## 线下活动
@@ -186,3 +186,7 @@
 [MIT LINCENSE](https://opensource.org/licenses/MIT)
 
 [1]: https://github.com/hylerrix
+[2]: https://github.com/pricezh
+[3]: https://github.com/AqingCyan
+[4]: http://github.com/wcy4025264
+[5]: https://github.com/guzhongren
